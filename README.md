@@ -44,7 +44,7 @@ tkinter-calculator/
 Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/tkinter-calculator.git
+git clone https://github.com/Anikgarg05/tkinter-calculator.git
 ```
 
 Move into the project directory.
